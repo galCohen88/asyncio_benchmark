@@ -27,19 +27,19 @@ For high rate (100 users), its starts getting interesting, where a big differenc
 ## Graphic results
 
 ### sync 10 clients 10 hatch rate 
-![Alt text](10_10_sync.png?raw=true 
+![Alt text](10_10_sync.png?raw=true) 
 
 ### async 10 clients 10 hatch rate 
-![Alt text](10_10_async.png?raw=true 
+![Alt text](10_10_async.png?raw=true) 
 
 ### sync 100 clients 100 hatch rate 
-![Alt text](100_100_sync.png?raw=true 
+![Alt text](100_100_sync.png?raw=true) 
 
 ### async 100 clients 100 hatch rate
-![Alt text](100_100_async.png?raw=true 
+![Alt text](100_100_async.png?raw=true)
 
 ### sync 1000 clients 1000 hatch rate
-![Alt text](1000_1000_sync.png?raw=true 
+![Alt text](1000_1000_sync.png?raw=true) 
 
 ### async 1000 clients 1000 hatch rate
-![Alt text](1000_1000_async.png?raw=true 
+![Alt text](1000_1000_async.png?raw=true) 
