@@ -24,8 +24,8 @@ With asyncio the response time was X4 faster in average than sync (~50ms median 
 
 ## Graphic results
 
-### sync 100 clients 10 hatch rate 
+### sync 100 clients 100 hatch rate 
 ![Alt text](100_100_sync.png?raw=true) 
 
-### async 100 clients 10 hatch rate 
+### async 100 clients 100 hatch rate 
 ![Alt text](100_100_async.png?raw=true) 
