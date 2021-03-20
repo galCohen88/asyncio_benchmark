@@ -13,7 +13,7 @@ hiredis==1.0.0
 idna==2.8
 idna-ssl==1.1.0
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 locustio==0.12.2
 MarkupSafe==1.1.1
 msgpack-python==0.5.6
